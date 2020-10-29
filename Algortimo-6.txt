@@ -1,0 +1,9 @@
+Generar una solución que permita calcular y mostrar el pago mensual de un préstamo de 1 año de plazo. Se debe ingresar el monto del préstamo y el interés mensual a cobrar.
+
+1_ Inicio
+2_ Se pide ingresar el monto del préstamo.
+3_ Se divide el monto del prestamo para 12.
+4_ Se pide ingresar el interés mensaul a cobrar.
+5_ Se suma el interés mensual a cobrar al resultado de la dividición del monto dividido para 12.
+6_ Se muestra en pantalla el valor total a pagar mensualmente. 
+5_ Fin
