@@ -3,6 +3,6 @@ Generar un algoritmo que permite calcular y presentar el área de un triángulo.
 1_ Inicio
 2_ Presentar valor de la base
 3_ Presenta valor de la altura
-4_ multiplicar (base * altura)/2
+4_ Calcular (base * altura)/2
 5_ Presentar el area del triangulo
 6_ Fin
