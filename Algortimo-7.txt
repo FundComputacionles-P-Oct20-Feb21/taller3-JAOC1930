@@ -5,5 +5,5 @@ Generar un algoritmo que permita calcular y mostrar el valor a cancelar de una p
 3_ Numero de kilovatios consumidos en el mes
 4_ Calcular kilovatios hora * kilovatios consumidos al mes
 5_ Si el usuario tiene mas de 65 años de le descuenta el 10%
-6_ Presentar el valor a cancelar
+6_ Presentar el costo a cancelar
 7_ fin
