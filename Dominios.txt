@@ -8,7 +8,7 @@ Una cadena que permita las letras minúsculas que sean vocales cerradas y los d�
 
 3) Ejercicio3
 Dominio para un tipo de dato entero, donde se permite los valores impares mayores o iguales a 21 y menores o iguales a 33; además no se permite el número 23
-	i[{21,25,27...33},!{23}]
+	i[{21,23,25,27...33},!{23}]
 
 4) Ejercicio4
 Representar un dominio para los número enteros del 10 al 200; excepto los pares de 50 al 60.
